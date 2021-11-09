@@ -1,4 +1,3 @@
-console.log("Welcome to our magic note");
 showNotes();
 
 //if user add a note, add it to the local storage
