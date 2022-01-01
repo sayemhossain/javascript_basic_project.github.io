@@ -8,8 +8,8 @@ btn.addEventListener("click", function () {
   if (input == number) {
     output.innerHTML = `You guessed right!`;
   } else if (input < number) {
-    output.innerHTML = `Sorry! You guessed too low. The number was ${number}`;
+    output.innerHTML = `Sorry! You guessed low. The number was ${number}`;
   } else if (input > number) {
-    output.innerHTML = `Sorry! You guessed to high. The number was ${number}`;
+    output.innerHTML = `Sorry! You guessed high. The number was ${number}`;
   }
 });
