@@ -1,0 +1,27 @@
+.light-system {
+  text-align: center;
+}
+.light-system img {
+  width: 150px;
+}
+.btn {
+  text-align: center;
+}
+#btn1 {
+  margin: 1rem 2rem;
+  padding: 0.5rem 1rem;
+  background-color: green;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#btn2 {
+  margin: 1rem 2rem;
+  padding: 0.5rem 1rem;
+  background-color: red;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
